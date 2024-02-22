@@ -13,9 +13,9 @@ p3 = (1, 1, 1) to p4 = (0, 1, 1) in 15 seconds
 p4 = (0, 1, 1) to p5 = (0, 0, 1) in 15 seconds
 
 
-<img src="./images/Drone Frames.jpg" align = "center">
+<img src="./images/DroneFrames.jpg" align = "center">
 
-Code is not shared as the code sharing isn't permissible under the Course Regulations!
+Code is not shared as code sharing isn't permissible under the Course Regulations!
 
 ## Results
 
